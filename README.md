@@ -3,4 +3,6 @@
 ## client site link
 # https://tour-bhai.web.app
 # To build this app requirements are:
-# 1)React app 2)Firebase 3) heroku for server site 4) react-router 5)context api
+### ▪ A tourism website where visitors can find all informations about different places
+### ▪Used technology :  react js, firebase, react-rounter-dom ,Bootstrap,Mongodb atlas
+### ▪Deployed in Heroku (server) and firebase (client)
